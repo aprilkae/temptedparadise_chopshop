@@ -1,10 +1,10 @@
 # temptedparadise_chopshop - version 1.0
 
 # requirements
-ESX
-esx_phone 
-esx_infoillegal 
-esx_vehicleshop (for getting vehicles they're allowed to sell, you can easily replace this with something else)
+- ESX
+- esx_phone 
+- esx_infoillegal 
+- esx_vehicleshop (for getting vehicles they're allowed to sell, you can easily replace this with something else)
 
 
 ## Contribution guide
