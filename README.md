@@ -2,8 +2,8 @@
 
 # requirements
 ESX
-esx_phone
-esx_infoillegal
+esx_phone 
+esx_infoillegal 
 esx_vehicleshop (for getting vehicles they're allowed to sell, you can easily replace this with something else)
 
 
