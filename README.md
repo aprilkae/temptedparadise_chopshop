@@ -3,7 +3,7 @@
 # requirements
 - ESX
 - esx_phone 
-- esx_infoillegal 
+- esx_eden_darknet
 - esx_vehicleshop (for getting vehicles they're allowed to sell, you can easily replace this with something else)
 
 
