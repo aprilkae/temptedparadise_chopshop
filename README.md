@@ -1,5 +1,6 @@
 # temptedparadise_chopshop - version 1.0
 
+
 # Requirements
 - ESX
 - esx_phone 
@@ -7,7 +8,7 @@
 - esx_vehicleshop (for getting vehicles they're allowed to sell, you can easily replace this with something else)
 
 
-## Contribution guide
+# Contribution guide
 
 1. Fork the project.
 2. Clone the repo you just fork.
