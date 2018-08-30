@@ -1,5 +1,5 @@
 # temptedparadise_chopshop - version 1.0
-
+This is not an official release - it works in our Development Server but has not been fully tested in Live.
 
 # Requirements
 - ESX
