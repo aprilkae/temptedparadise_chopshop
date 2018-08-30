@@ -1,6 +1,6 @@
 # temptedparadise_chopshop - version 1.0
 
-# requirements
+# Requirements
 - ESX
 - esx_phone 
 - esx_eden_darknet
